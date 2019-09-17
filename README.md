@@ -15,9 +15,4 @@ The user should be able to reach a main route ("/") named start, and also route 
 
 -   add other routes to your App
 
-### Rules
 
--   This is an individual assignment.
--   Deadline: 30 min.
--   Use **Git properly**
--   Feel free to document your code with comments.
