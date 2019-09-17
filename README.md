@@ -11,7 +11,7 @@ The user should be able to reach a main route ("/") named start, and also route 
 -   Here is an image for reference:
     ![mock-up](mock-up.png)
 
-**Bonuses**
+**Bonus**
 
 -   add other routes to your App
 
